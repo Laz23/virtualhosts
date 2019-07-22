@@ -1,4 +1,4 @@
-lHost *:80>
+VirtualHost *:80>
         ServerAdmin webmaster@localhost
         ServerName www.toto.com
         
